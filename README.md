@@ -2,6 +2,8 @@
 
 ### This Word Cloud Project is made using Python and Jupyter Notebook.
 
+### Please read all the instructions and the comments in the notebook for successful execution of this WORD CLOUD Project.
+
 ### Please run the following commands using your Terminal before executing the code....These are all the required modules.
 
 
