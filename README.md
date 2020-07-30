@@ -4,7 +4,7 @@
 
 ### Please read all the instructions and the comments in the notebook for successful execution of this WORD CLOUD Project.
 
-### Please run the following commands using your Terminal before executing the code....These are all the required modules.
+### Following are all the required modules.
 
 
 pip install wordcloud <br>
