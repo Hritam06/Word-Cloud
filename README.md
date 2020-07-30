@@ -5,11 +5,11 @@
 ### Please run the following commands using your Terminal before executing the code....These are all the required modules.
 
 
-pip install wordcloud
-pip install fileupload
-pip install ipywidgets
-jupyter nbextension install --py --user fileupload
-jupyter nbextension enable --py fileupload
+pip install wordcloud <br>
+pip install fileupload <br>
+pip install ipywidgets <br>
+jupyter nbextension install --py --user fileupload <br>
+jupyter nbextension enable --py fileupload <br>
 
 
 
