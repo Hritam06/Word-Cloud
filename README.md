@@ -12,6 +12,8 @@ jupyter nbextension install --py --user fileupload <br>
 jupyter nbextension enable --py fileupload <br>
 
 
+### If you  need the `.txt` file then please read the following.
+
 
 For the input text of your script, you will need to provide a file that contains text only.  For the text itself, you can copy and paste the contents of a website you like.  Or you can use a site like [Project Gutenberg](https://www.gutenberg.org/) to find books that are available online.  You could see what word clouds you can get from famous books, like a Shakespeare play or a novel by Jane Austen. Save this as a .txt file somewhere on your computer.
 <br><br>
